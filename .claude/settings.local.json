@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(git clone:*)",
+      "Bash(just dev-setup:*)",
+      "Bash(just format:*)",
+      "Bash(just check:*)",
+      "Bash(uv run:*)",
+      "Bash(start \"Missing_Timesheet_Report.xlsx\")",
+      "Bash(python:*)",
+      "Bash(where:*)",
+      "Bash(python3:*)",
+      "Skill(xlsx)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
